@@ -1,2 +1,2 @@
 # WebClimaJS
-Pequeña Web del tiempo con JavaScript
+Pequeña Web del tiempo con JavaScript/API
